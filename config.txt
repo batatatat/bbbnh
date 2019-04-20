@@ -1,5 +1,5 @@
 token=NTY5MTUzOTAxMTExMjc5NjM2.XLsgJw.YK37rZKgiJUf1pCU92ESNM8CVS4
-owner=514588568006426645
+owner=412997150914379788
 prefix= -
 game= Brawlhalla Dz
 stayinchannel=true
